@@ -1,0 +1,27 @@
+CO EOR
+MB EOR TYW
+CO EOR TYW
+P2 K1 P1 K1 P1 K2 DEC EOR
+REP
+    CONT
+    P2 K1 P1 K2 P1 K1 DEC EOR
+    REP
+        CONT
+        P2 K1 P1 K1 P1 K1 P1 DEC EOR
+        REP
+            CONT
+            P2 K1 P1 K4 DEC EOR
+            REP
+                BO
+            CONT CONT
+            BEG YO EOR
+            SL BO
+        CONT CONT
+        BEG JOIN EOR
+        SL BO
+    CONT CONT
+    BEG DEC EOR
+    SL BO
+CONT CONT
+BEG INC EOR
+SL
