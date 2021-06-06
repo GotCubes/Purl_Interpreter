@@ -1,7 +1,7 @@
 # Purl_Interpreter
 A Python interpreter for the esoteric programming language "Purl"
 
-[Purl's Esolang Wiki Page](https://esolangs.org/wiki/*Purl)
+[Purl's Esolang Wiki Page](https://esolangs.org/wiki/Purl)
 
 Purl's Language Specification:
 | Command | Knitting Equivalent | Description |
